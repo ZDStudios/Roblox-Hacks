@@ -28,6 +28,6 @@ Learning’s more fun when it doesn’t hurt anyone. So be cool, stay curious, a
 
 ---
 
-Made by ZDStudios 😎 
-ReadMe made by ChatGPT 🤖
-Wink wink 😉
+- Made by ZDStudios 😎 
+- ReadMe made by ChatGPT 🤖
+- Wink wink 😉
